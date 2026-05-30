@@ -5,5 +5,5 @@ import react from "@vitejs/plugin-react";
 // (relative asset paths). Safe here because the site has no client-side routing.
 export default defineConfig({
   plugins: [react()],
-  base: "./",
+  base: "/Final-Portfolio-Mihir-Thatti",
 });
